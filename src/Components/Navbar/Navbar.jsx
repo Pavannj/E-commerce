@@ -26,4 +26,3 @@ const [menu,setMenu]=useState("shop")
   </div>;
 };
 
-//23:12
